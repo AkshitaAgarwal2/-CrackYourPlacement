@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Matrix
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
