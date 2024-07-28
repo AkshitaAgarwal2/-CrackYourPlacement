@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
