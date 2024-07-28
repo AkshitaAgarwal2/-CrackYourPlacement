@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0680-valid-palindrome-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
