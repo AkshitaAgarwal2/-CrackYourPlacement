@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0227-basic-calculator-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
