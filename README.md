@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
