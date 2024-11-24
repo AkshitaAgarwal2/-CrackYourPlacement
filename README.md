@@ -78,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/AkshitaAgarwal2/-CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
